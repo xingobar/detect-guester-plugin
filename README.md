@@ -1,7 +1,5 @@
 # detect-guester-plugin
 
-
-# simple-drawerlayout
 ps:required jquery
 
 <p>step1: include jQuery:</p>
