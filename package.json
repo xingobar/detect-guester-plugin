@@ -1,6 +1,6 @@
 {
 	"name": "detect_guester",
-	"version": "1.0.2",
+	"version": "1.0.4",
 	"description": "this is detect user guester plugin",
 	"main": "detect_guester.js",
 	"directories": {
@@ -26,7 +26,9 @@
 		"url": "https://github.com/xingobar/detect-guester-plugin/issues"
 	},
 	"homepage": "https://github.com/xingobar/detect-guester-plugin#readme",
-	"dependencies": {},
+    "dependencies": {
+      "jquery": "^3.3.1"
+    },
 	"devDependencies": {
 		"jquery": "^3.3.1"
 	}
