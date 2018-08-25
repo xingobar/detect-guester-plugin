@@ -1,5 +1,7 @@
 # detect-guester-plugin
 
+## The plugin will detect user guester like swipe or long press etc...
+
 ps:required jquery
 
 <p>step1: include jQuery:</p>
