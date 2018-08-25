@@ -1,0 +1,23 @@
+{
+	"name": "detect_guester",
+	"version": "1.0.0",
+	"description": "this is detect user guester plugin",
+	"main": "./dist/index.js",
+	"directories": {
+		"example": "example"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/xingobar/detect-guester-plugin.git"
+	},
+	"keywords": [ "guester", "Detect User Guester", "Swipe", "LongPress", "Detect Guester" ],
+	"author": "GaryNg",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/xingobar/detect-guester-plugin/issues"
+	},
+	"homepage": "https://github.com/xingobar/detect-guester-plugin#readme"
+}
