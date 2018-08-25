@@ -18,6 +18,10 @@ ps:required jquery
     </code>
 </pre>
 
+<p>or you can use require</p>
+<pre>
+    var detectGuester = require('detect_guester');
+</pre>
 
 <p>description</p>
 <pre>

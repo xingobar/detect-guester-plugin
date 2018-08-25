@@ -2,7 +2,7 @@
 	"name": "detect_guester",
 	"version": "1.0.0",
 	"description": "this is detect user guester plugin",
-	"main": "./dist/index.js",
+	"main": "detect_guester.js",
 	"directories": {
 		"example": "example"
 	},
