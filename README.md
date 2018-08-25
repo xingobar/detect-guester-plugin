@@ -46,6 +46,11 @@ ps:required jquery
         detectGuester.rotate({
             target: string, // html element, example: '#test'
             callback: function() {....} // trigger callback
+        });
+
+        detectGuester.zoom({
+            target: string, // html element, example: '#test'
+            callback:function() {....} // trigger callback
         })
     </code>
 </pre>
