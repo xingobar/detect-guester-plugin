@@ -41,6 +41,11 @@ ps:required jquery
         detectGuester.press({
             target: string, // html element, example: '#test'
             callback: function() {...} // trigger callback
+        });
+
+        detectGuester.rotate({
+            target: string, // html element, example: '#test'
+            callback: function() {....} // trigger callback
         })
     </code>
 </pre>

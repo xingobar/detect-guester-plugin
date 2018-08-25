@@ -32,7 +32,10 @@
         // })
 
         detectGuester.rotate({
-            target:'#test'
+            target:'#test',
+            callback:function() {
+                alert('callback trigger')
+            }
         })
     </script>
 </html>
