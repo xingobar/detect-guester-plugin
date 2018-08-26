@@ -1,6 +1,6 @@
 {
 	"name": "detect_guester",
-	"version": "1.2.4",
+	"version": "1.2.5",
 	"description": "this is detect user guester plugin",
 	"main": "detect_guester.js",
 	"directories": {

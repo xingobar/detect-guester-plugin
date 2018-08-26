@@ -1,10 +1,8 @@
 # detect-guester-plugin
 
-## The plugin will detect user guester like swipe or long press etc...
+### The plugin will detect user guester like swipe or long press etc...
 
 ps:required jquery
-
-### you can git clone https://github.com/xingobar/detect-guester-plugin.git
 
 <p>step1: include jQuery:</p>
 <pre>
