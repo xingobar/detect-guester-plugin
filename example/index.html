@@ -12,13 +12,13 @@
     <script type="text/javascript" src="../src/jquery-3.3.1.min.js"></script>
     <script type="text/javascript" src="../src/detect_guester.js"></script>
     <script type="text/javascript">
-        // detectGuester.swipe({
-        //     target:'#test',
-        //     direction:'top',
-        //     callback: function() {
-        //         alert('swipe top')
-        //     }
-        // });
+        detectGuester.swipe({
+            target:'#test',
+            direction:'top',
+            callback: function() {
+                alert('swipe top')
+            }
+        });
 
         // detectGuester.press({
         //     target:'#test'
@@ -38,12 +38,12 @@
         //     }
         // })
 
-        detectGuester.zoom({
-            target:'#test',
-            direction:'out',
-            callback:function() {
-                alert('callback trigger')
-            }
-        })
+        // detectGuester.zoom({
+        //     target:'#test',
+        //     direction:'out',
+        //     callback:function() {
+        //         alert('callback trigger')
+        //     }
+        // })
     </script>
 </html>
