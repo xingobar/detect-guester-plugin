@@ -50,7 +50,8 @@ ps:required jquery
 
         detectGuester.zoom({
             target: string, // html element, example: '#test'
-            callback:function() {....} // trigger callback
+            callback:function() {....}, // trigger callback
+            direction: string // in (zoom-in) or out (zoom-out)   
         })
     </code>
 </pre>
