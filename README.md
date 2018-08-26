@@ -4,6 +4,8 @@
 
 ps:required jquery
 
+## you can git clone https://github.com/xingobar/detect-guester-plugin.git project
+
 <p>step1: include jQuery:</p>
 <pre>
     <code>
